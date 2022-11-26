@@ -1,3 +1,3 @@
-# It test, for bash
+# It test, for github
 # 2
 
